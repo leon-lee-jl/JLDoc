@@ -5,5 +5,3 @@ From Official `Documentation<https://www.typescriptlang.org]>`_
 
 1. Quick Start
 ===============
-This is a test
-jjj

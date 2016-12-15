@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/leon-lee-jl/JLDoc#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
   },
   "dependencies": {
+    "gulp": "^3.9.1",
     "gulp-shell": "^0.5.2"
   }
 }
