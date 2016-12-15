@@ -1,7 +1,0 @@
-UC Berkeley Courses
-=====================
-
-.. toctree::
-    marketing_management
-    information_organization_and_retrieval
-    applied_natural_language_processing

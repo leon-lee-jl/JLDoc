@@ -8,4 +8,4 @@ For development and operation & maintainence convinence, we build server dockers
 
     knowledge/index
     reports/index
-    courses/index
+    languages/index

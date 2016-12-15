@@ -1,0 +1,35 @@
+{
+  "name": "jldoc",
+  "version": "1.0.0",
+  "description": "Personal Technical Documentation",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-lee-jl/JLDoc.git"
+  },
+  "keywords": [
+    "sphinx",
+    "restructure",
+    "markdown",
+    "JL",
+    "documentation"
+  ],
+  "author": "Leon Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leon-lee-jl/JLDoc/issues"
+  },
+  "homepage": "https://github.com/leon-lee-jl/JLDoc#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-shell": "^0.5.2"
+  }
+}
