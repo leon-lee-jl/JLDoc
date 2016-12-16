@@ -6,11 +6,11 @@ This repository is the personal technical documentation made during my study and
 -----------------------------------
 ## Table of Content
 - [**Prerequisites**](#prerequisites)
-    - [***Python Packages***](#python-packages)
-    - [***Build Tool***](#build-tool)
+    - [*Python Packages*](#python-packages)
+    - [*Build Tool*](#build-tool)
 - [**Build Tasks**](#build-tasks)
-    - [***Build Html***](#build-html)
-    - [***Build Epub***](#build-epub)
+    - [*Build Html*](#build-html)
+    - [*Build Epub*](#build-epub)
 - [**TODO**](#todo)
 
 ----------------------------------
