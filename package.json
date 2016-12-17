@@ -26,9 +26,9 @@
     "url": "https://github.com/leon-lee-jl/JLDoc/issues"
   },
   "homepage": "https://github.com/leon-lee-jl/JLDoc#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.5.2"
   }
