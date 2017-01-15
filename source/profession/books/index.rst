@@ -11,3 +11,5 @@ Point of Knowledge
     gnu_make
     information_security_analytics_finding_security_insights_patterns_and_anomalies_in_big_data
     python_for_data_analysis
+    an_overview_of_statistical_learning
+    python_data_science_essentails

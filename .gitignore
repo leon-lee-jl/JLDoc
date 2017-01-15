@@ -90,3 +90,4 @@ ENV/
 .DS_Store
 *~
 node_modules/
+._.DS_Store

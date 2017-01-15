@@ -6,6 +6,6 @@ For development and operation & maintainence convinence, we build server dockers
 
 .. toctree::
 
-    knowledge/index
+    books/index
     reports/index
     languages/index

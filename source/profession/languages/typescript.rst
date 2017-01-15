@@ -121,6 +121,3 @@ Describe types that we can "index into" like a[10], or ageMap["daniel"]. There a
 
 
 **Class Types**
-
-- Implement an interface
--

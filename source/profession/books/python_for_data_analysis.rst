@@ -26,8 +26,7 @@ Chapter 3. IPython: An Interactive Computing and Development Environment
 * ***??*** : will also show the function’s source code if possible
 * ***%xmode*** : command to show verbose or less trace context
 * ***ipython --pylab*** : First IPython will launch with the default GUI backend integration enabled so that matplotlib plot windows can be created with no issues. Secondly, most of NumPy and matplotlib will be imported into the top level interactive namespace to produce an interactive computing environment reminiscent of MATLAB and other domain-specific scientific computing environments. It’s possible to do this setup by hand by using %gui, too (try running %gui? to find out how).
-* ***<Ctrl-R*** : gives you the same partial incremental searching capability provided by the readline used in UNIX-style shells
-***_27 for the 27th line output, and _i27 for the 27th line input***
+* ***<Ctrl-R*** : gives you the same partial incremental searching capability provided by the readline used in UNIX-style shells ***_27 for the 27th line output, and _i27 for the 27th line input***
 ***%pdb*** : command makes it so that IPython automatically invokes the debugger after any exception
 
 Paste code to execute on ipython terminal: Use the %paste and %cpaste magic functions. %paste takes whatever text is in the clipboard and executes it as a single block in the shell; %cpaste is similar, except that it gives you a special prompt for pasting code into.
