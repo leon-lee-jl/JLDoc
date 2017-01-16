@@ -3,5 +3,4 @@ Programming Languages
 
 .. toctree::
     typescript
-    python
     php

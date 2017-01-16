@@ -11,22 +11,16 @@ Love. Passion. Courage.
 
    ------ *Albert Einstein*
 
-.. hint::
-   **"我不怕万人阻挡，只怕自己投降，逆风的方向，更适合飞翔。"**
-
-   ------ *五月天*
-
-
 
 Table of Content
 --------------------
 .. toctree::
    :maxdepth: 3
 
-   profile/index
-   life/index
    profession/index
    projects/index
+   courses/index
+
 
 * :ref:`genindex`
 * :ref:`modindex`
