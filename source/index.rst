@@ -1,5 +1,5 @@
 Love. Passion. Courage.
-=================================
+=======================
 
 .. hint::
    **"The only true wisdom is knowing you know nothing."**
@@ -13,7 +13,7 @@ Love. Passion. Courage.
 
 
 Table of Content
---------------------
+----------------
 .. toctree::
    :maxdepth: 3
 

@@ -51,3 +51,4 @@ gulp build-epub
 
 - [ ] Convert markdown table to rst cvs-table
 - [ ] Add Personal CSS
+- [ ] Revise project contents

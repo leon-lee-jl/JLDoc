@@ -1,6 +1,5 @@
 
-# TPages Certificate Infrastructure (TCI)
-<img src="../_static/tp-certificates-logo.jpg" width="500" height="110" alt="Script_Options"/>
+# Certificate Infrastructure (TCI)
 
 This repository stores the RSA based public key (certificate) and private key pairs which are used for website secure access (https), server ssh login, vpn authentication, and so on. Also, it aims at building private certificates and making the building process more easily.
 
@@ -9,12 +8,12 @@ This repository stores the RSA based public key (certificate) and private key pa
 
 - [**File Notes**](#file-notes)
 - [**Command Line**](#command-line)
-	- [***Establish CA***](#establish-ca)
-	- [***Generate Server Certificates***](#generate-server-certificates)
-	- [***Generate Personal Certificates***](#generate-personal-certificates)
-	- [***Change Certificate Format***](#change-certificate-format)
-	- [***Generate Public Key from Private Key***](#generate-public-key-from-private-key)
-    - [***Add Cert Authority to System NSSDB***](#add-cert-authority-to-system-nssdb)
+	- [*Establish CA*](#establish-ca)
+	- [*Generate Server Certificates*](#generate-server-certificates)
+	- [*Generate Personal Certificates*](#generate-personal-certificates)
+	- [*Change Certificate Format*](#change-certificate-format)
+	- [*Generate Public Key from Private Key*](#generate-public-key-from-private-key)
+    - [*Add Cert Authority to System NSSDB*](#add-cert-authority-to-system-nssdb)
 - [**TODO**](#todo)
 
 

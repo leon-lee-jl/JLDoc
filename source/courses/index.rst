@@ -1,5 +1,5 @@
 *************
-UCB Courses Notes
+Courses Notes
 *************
 
 Notes for chosen courses during studying at ISchool.

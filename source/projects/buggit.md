@@ -1,13 +1,12 @@
-# TPages Buggit
-<img src="../_static/tp-buggit-logo.jpg" width="500" height="110" alt="TPages Buggit"/>
+# Buggit
 
 -------------------------
 ## Table of Contents
 
 - [**Introduction**](#introduction)
-    - [***Scmbug***](#scmbug)
-    - [***Email***](#email)
-    - [***Buggit***](#buggit)
+    - [*Scmbug*](#scmbug)
+    - [*Email*](#email)
+    - [*Buggit*](#buggit)
 - [**Architecuture**](#architecture)
 - [**File Tree**](#file-tree)
 - [**DB Changes**](#db-changes)
@@ -99,8 +98,8 @@ If you want to disable this extension, create a file named “disabled” in Bug
 -------------------
 ## Reference
 - https://code.google.com/p/bugzilla-vcs/
--  https://www.bugzilla.org/docs/tip/en/html/api/
--  http://www.bugzilla.org/docs/tip/en/html/api/Bugzilla/Hook.html
+- https://www.bugzilla.org/docs/tip/en/html/api/
+- http://www.bugzilla.org/docs/tip/en/html/api/Bugzilla/Hook.html
 
 
 -------------------

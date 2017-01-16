@@ -1,10 +1,10 @@
-******************************************************************
+*******************************
 INFO 203: Reading 1 (01/17/2017)
-******************************************************************
+********************************
 
 
 1. Coase’s Penguin, or, Linux and The Nature of the Firm
-=========================================================
+========================================================
 ***By Yochai Benkler***
 
 “Coase” refers to Ronald Coase, who originated the transaction costs theory of the firm that provides the methodological template for the positive analysis of peer production that I offer here. The penguin refers to the fact that the Linux kernel development community has adopted the
@@ -22,7 +22,7 @@ In the late 1930s, Ronald Coase wrote The Nature of the Firm,5 in which he expla
 **Author's theory: Commons-based Peer Production**
 
 I. Peer Production All Around
---------------------------------
+-----------------------------
 Three main topics in this part:
 
 * Content Production (NASA Clickworkders, World Wide Web, Wikipedia, Everything2.com, Kuroshin)
@@ -31,11 +31,11 @@ Three main topics in this part:
 
 
 II. Why Would Peer Production Emerge In A Networked Environment
------------------------------------------------------------------
+---------------------------------------------------------------
 
 
 2. The Death of Distance
-==========================
+========================
 
 New Communications:
 
