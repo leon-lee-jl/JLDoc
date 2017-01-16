@@ -1,27 +1,26 @@
-# Tpages Dockers Deployment (TDD)
-<img src="../_static/tp-dockers-logo.jpg" width="500" height="110" alt="Script_Options"/>
+# Dockers Deployment
 
 -----------------------
 ## Table of Contents
 
 - [**Introduction**](#introduction)
-    - [***Ports Mapping***](#ports-mapping)
-    - [***Directory Mounting***](#directory-mounting)
+    - [*Ports Mapping*](#ports-mapping)
+    - [*Directory Mounting*](#directory-mounting)
 - [**Architecuture**](#architecture)
-    - [***Layout***](#layout)
-    - [***Images***](#images)
-    - [***Default Services***](#default-services)
-    - [***VirtualBox Port Forwarding***](#virtualbox-port-forwarding)
-    - [***Running Containers***](#running-containers)
+    - [*Layout*](#layout)
+    - [*Images*](#images)
+    - [*Default Services*](#default-services)
+    - [*VirtualBox Port Forwarding*](#virtualbox-port-forwarding)
+    - [*Running Containers*](#running-containers)
 - [**Make Steps**](#make-steps)
-    - [***Required: build images***](#required-build-images)
-    - [***Required: start container***](#required-start-container)
-    - [***Optional: state container***](#optional-state-container)
-    - [***Optional: interact with container***](#optional-interact-with-container)
-    - [***Optional: remove container***](#optional-remove-container)
+    - [*Required: build images*](#required-build-images)
+    - [*Required: start container*](#required-start-container)
+    - [*Optional: state container*](#optional-state-container)
+    - [*Optional: interact with container*](#optional-interact-with-container)
+    - [*Optional: remove container*](#optional-remove-container)
 - [**Special Notes**](#special-notes)
-    - [***Upgrade gitlab-ce***](#upgrade-gitlab-ce)
-    - [***Restore gitlab-ce***](#restore-gitlab-ce)
+    - [*Upgrade gitlab-ce*](#upgrade-gitlab-ce)
+    - [*Restore gitlab-ce*](#restore-gitlab-ce)
 - [**TODO**](#todo)
 
 

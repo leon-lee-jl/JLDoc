@@ -1,5 +1,4 @@
-
-# Certificate Infrastructure (TCI)
+# Certificate Infrastructure
 
 This repository stores the RSA based public key (certificate) and private key pairs which are used for website secure access (https), server ssh login, vpn authentication, and so on. Also, it aims at building private certificates and making the building process more easily.
 

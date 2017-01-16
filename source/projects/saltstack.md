@@ -1,18 +1,17 @@
-# TPages Automation Management (TAM)
-<img src="../_static/tp-saltstack-logo.jpg" width="500" height="110" alt="Script_Options"/>
+# Automation Management
 
 ## Table of Contents
 
 
 - [**Introduction**](#introduction)
 - [**Architecture**](#architecture)
-    - [***SaltStack Key Components***](#saltstack-key-components)
-    - [***Deployment Architecture***](#deployment-architecture)
+    - [*SaltStack Key Components*](#saltstack-key-components)
+    - [*Deployment Architecture*](#deployment-architecture)
 - [**Bootstrap**](#bootstrap)
-    - [***Installation***](#installation)
-    - [***Upgrading***](#upgrading)
-    - [***Common Commands***](#common-commands)
-    - [***Operating Steps***](#operating-steps)
+    - [*Installation*](#installation)
+    - [*Upgrading*](#upgrading)
+    - [*Common Commands*](#common-commands)
+    - [*Operating Steps*](#operating-steps)
 - [**Trouble Shooting**](#trouble-shooting)
 - [**TODO**](#todo)
 
