@@ -2,22 +2,162 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4b38482-22cb-4293-873c-d439e542c0b3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/computer_science_an_overview.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/data_structure_and_algorithms_in_python.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/gnu_make.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/index.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/information_security_analytics_finding_security_insights_patterns_and_anomalies_in_big_data.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/linux_routing.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/machine_learning_for_hackers.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/pro_git.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/python_for_data_analysis.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/profession/knowledge/the_elements_of_statistical_learning.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tox.ini" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/courses/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/courses/info203/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/courses/info203/info203r1.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/courses/info205/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/courses/info205/info205r1.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/an_overview_of_statistical_learning.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/computer_science_an_overview.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/data_structure_and_algorithms_in_python.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/gnu_make.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/information_security_analytics_finding_security_insights_patterns_and_anomalies_in_big_data.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/linux_routing.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/machine_learning_for_hackers.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/pro_git.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/python_data_science_essentails.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/python_for_data_analysis.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/books/the_elements_of_statistical_learning.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/languages/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/languages/php.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/profession/languages/typescript.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/buggit.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/certificates.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/common.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/dockers.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/doctrees/projects/saltstack.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_images/algorithms_roles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_images/analytics_techniques.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_images/git_file_lifecycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/algorithms_roles.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/analytics_techniques.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/Inconsolata-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/Inconsolata-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/Lato-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/Lato-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/RobotoSlab-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/RobotoSlab-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/git_file_lifecycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/mac-docker-host.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/saltstack_components.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/saltstack_deployment_architecture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-buggit-architecture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-buggit-file-tree.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-buggit-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-buggit-scmbug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-certificates-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-common-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-docker-centos-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-docker-ubuntu-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-dockers-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-dockers-shared-folders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tp-saltstack-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tpages-docker-deployment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/tpages_workflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/courses/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/courses/info203/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/courses/info203/info203r1.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/courses/info205/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/courses/info205/info205r1.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/an_overview_of_statistical_learning.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/computer_science_an_overview.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/data_structure_and_algorithms_in_python.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/gnu_make.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/information_security_analytics_finding_security_insights_patterns_and_anomalies_in_big_data.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/linux_routing.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/machine_learning_for_hackers.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/pro_git.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/python_data_science_essentails.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/python_for_data_analysis.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/books/the_elements_of_statistical_learning.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/languages/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/languages/php.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/profession/languages/typescript.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/buggit.md.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/certificates.md.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/common.md.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/dockers.md.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/index.rst.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_sources/projects/saltstack.md.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/css/badge_only.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/jquery-3.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/js/modernizr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/js/theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/personal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/underscore-1.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/courses/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/courses/info203/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/courses/info203/info203r1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/courses/info205/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/courses/info205/info205r1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/an_overview_of_statistical_learning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/computer_science_an_overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/data_structure_and_algorithms_in_python.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/gnu_make.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/information_security_analytics_finding_security_insights_patterns_and_anomalies_in_big_data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/linux_routing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/machine_learning_for_hackers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/pro_git.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/python_data_science_essentails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/python_for_data_analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/books/the_elements_of_statistical_learning.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/languages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/languages/php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/profession/languages/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/buggit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/certificates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/common.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/dockers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/projects/saltstack.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/searchindex.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/JLDoc.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/profession/index.rst" afterPath="$PROJECT_DIR$/source/profession/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/profession/languages/typescript.rst" afterPath="$PROJECT_DIR$/source/profession/languages/typescript.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,9 +169,55 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Leon Lee &lt;leon.lee@berkeley.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/profession/languages/index.rst" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -39,14 +225,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="80" />
-    <option name="width" value="1612" />
-    <option name="height" value="1000" />
+    <option name="y" value="22" />
+    <option name="width" value="1660" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -63,9 +245,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JLDoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.5.2 (/usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/bin/python3.5) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JLDoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JLDoc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -74,6 +283,8 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -164,7 +375,31 @@
       <module name="JLDoc" />
       <method />
     </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JLDoc" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -288,6 +523,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e4b38482-22cb-4293-873c-d439e542c0b3" name="Default" comment="" />
@@ -296,30 +534,47 @@
       <option name="presentableId" value="Default" />
       <updated>1484457025709</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test commit from Pycharm.">
+      <created>1484598268793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484598268793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="80" width="1612" height="1000" extended-state="0" />
+    <frame x="0" y="22" width="1660" height="998" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14638554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25080732" sideWeight="0.50240964" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2917115" sideWeight="0.49759036" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,8 +583,112 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit from Pycharm." />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit from Pycharm." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/projects/pytp.md" />
+    <entry file="file://$PROJECT_DIR$/source/profession/languages/typescript.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-739">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/profession/languages/python.rst" />
+    <entry file="file://$PROJECT_DIR$/source/profession/languages/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/profession/reports/backup.rst" />
+    <entry file="file://$PROJECT_DIR$/source/projects/buggit.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects/common.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1129">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects/dockers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3150">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/courses/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects/saltstack.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/projects/certificates.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
