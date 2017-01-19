@@ -260,3 +260,25 @@ Constructors are never inherited in Java. In Java, a constructor of the supercla
 - As is the case with interfaces, an abstract class may not be instantiated, that is, no object can be created directly from an abstract class.
 - A subclass of an abstract class must provide an implementation for the abstract methods of its superclass, or else remain abstract.
 - template method pattern, an abstract base class provides a concrete behavior that relies upon calls to other abstract behaviors.
+
+2.4 Exceptions
+--------------
+
+.. code-block:: java
+
+    try {
+        body
+    } catch (exceptionType variable) {
+        body
+    } catch (exceptionType variable) {
+        body
+    }
+
+- There can be an optional finally clause with a body that will be executed whether or not an exception happens in the original guarded body.
+
+
+The hierarchy is intentionally divided into two subclasses: Error and Exception. Errors are typically thrown only by the Java Virtual Machine and designate the most serious situations that are unlikely to be recoverable, such as when the virtual machine is asked to execute a corrupt class file, or when the system runs out of memory. In contrast, exceptions designate situations in which a running program might reasonably be able to recover, for example, when unable to open a data file.
+
+Check Java throwable hierarchy diagram_
+.. _diagram: https://docs.oracle.com/javase/8/docs/api/java/lang/package-tree.html
+
