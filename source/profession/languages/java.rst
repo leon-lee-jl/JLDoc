@@ -192,7 +192,6 @@ Java methods can return only one value. To return multiple values in Java, we sh
         statements;
     }
 
-
 **For-each loop:**
 
 .. code-block:: java
@@ -200,3 +199,64 @@ Java methods can return only one value. To return multiple values in Java, we sh
     for (double val : data) {
         statements;
     }
+
+- return value of void: no return or return with no argument
+
+
+1.6 Simple Input and Output
+---------------------------
+
+- the System.out object is an instance of the java.io.PrintStream class.
+- java.util.Scanner and System.in
+
+
+1.7 An Example Program
+----------------------
+
+1.8 Packages and Imports
+------------------------
+
+- By convention, most package names are lowercased.
+
+1.9 Software Development
+------------------------
+
+- Design
+- Coding
+- Testing and Debugging
+
+
+2. Object-Oriented Design
+=========================
+
+2.1 Goals, Principles, and Patterns
+-----------------------------------
+Applying the abstraction paradigm to the design of data structure gives rise to abstract data types (ADTs). In Java, an ADT can be expressed by an interface, which is simply a list of method declarations, where each method has an empty body.
+
+2.2 Inheritance
+---------------
+superclass. In Java, each class can extend exactly one other class. Because of this property, Java is said to allow only single inheritance among classes. We should also note that even if a class definition makes no explicit use of the extends clause, it automatically inherits from a class, java.lang.Object, which serves as the universal superclass in Java.
+
+Constructors are never inherited in Java. In Java, a constructor of the superclass is invoked by using the keyword super with appropriate parameterization.
+
+**Polymorphism and Dynamic Dispatch:**
+
+- Liskov Substitution Principle: a variable (or parameter) with a declared type can be assigned an instance from any direct or indirect subclass of that type. (父类和子类中有同样的方法，调用子类，否则，调用父类方法。)
+- 对于面向对象而已，多态分为编译时多态和运行时多态。其中编辑时多态是静态的，主要是指方法的重载，它是根据参数列表的不同来区分不同的函数，通过编辑之后会变成两个不同的函数，在运行时谈不上多态。而运行时多态是动态的，它是通过动态绑定来实现的，也就是我们所说的多态性。
+- 动态调度： dynamic dispatch
+
+2.3 Interfaces and Abstract Classes
+-----------------------------------
+
+- strong typing: requires the types of parameters that are actually passed to methods rigidly conform with the type specified in the interface.
+- The main structural element in Java that enforces an API is an interface. An interface is a collection of method declarations with no data and no bodies.
+- When a class implements an interface, it must implement all of the methods declared in the interface. In this way, interfaces enforce requirements that an implementing class has methods with certain specified signatures.
+- class can implements multiple interfaces
+- In Java, multiple inheritance is allowed for interfaces but not for classes.
+- One use for multiple inheritance of interfaces is to approximate a multiple inheritance technique called the mixin.
+- Use class to implement multiple interfaces or implement an interface which inherit from multiple interfaces
+- In Java, an abstract class serves a role somewhat between that of a traditional class and that of an interface.
+- Unlike an interface, an abstract class may define one or more fields and any number of methods with implementation (so-called concrete methods). An abstract class may also extend another class and be extended by further subclasses.
+- As is the case with interfaces, an abstract class may not be instantiated, that is, no object can be created directly from an abstract class.
+- A subclass of an abstract class must provide an implementation for the abstract methods of its superclass, or else remain abstract.
+- template method pattern, an abstract base class provides a concrete behavior that relies upon calls to other abstract behaviors.

@@ -1,5 +1,5 @@
-*******************************
-INFO 203: Reading 1 (01/17/2017)
+********************************
+INFO 203: Reading 1 (01/19/2017)
 ********************************
 
 
@@ -32,6 +32,44 @@ Three main topics in this part:
 
 II. Why Would Peer Production Emerge In A Networked Environment
 ---------------------------------------------------------------
+
+
+
+1. Reassessing the Social
+=========================
+
+1.1 Information Comes of Age
+----------------------------
+
+1.2 Changing Times, Enduring Optimism
+-------------------------------------
+
+Beneficial implications of information spreading via technology is is a related tendency toward what we think of as “wishing on technology,” seeing the latest technology as a shortcut to solving the social, economic, and political conundrums of the day. Example, Hyperloop Alpha, Google project Loon, Facebook Internet.org,
+
+1.3 Two-Sided Tech
+------------------
+some commentators have pointed out that Google’s Loon also threatens to be as inquisitive as it is ubiquitous and, thus, a less than harmonious eye in the sky.
+
+One of the most significant markers that more tech will not automatically eliminate social challenges lies in Silicon Valley itself.
+
+Technology can bring good, and also bad.
+
+1.4 Machine Learning
+--------------------
+
+1.5 Sizing Up the Social
+------------------------
+Enduring topics of technology: distinguishing between people and intelligent machines.
+
+Technology can and should get rid of all the constraints to produce an ideal world, freeing the resources to solve society’s problems.
+
+1.6 Black Arts
+--------------
+Google Advertisement
+
+1.7 Legislative Code
+--------------------
+One of the traditional responses to problems of quasi-monopoly in any market has been government regulation.
 
 
 2. The Death of Distance
