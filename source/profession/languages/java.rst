@@ -29,11 +29,7 @@ Base (Primitive) types:
 
 Default integer type is "int", default number type is double.
 
-A nice feature of Java is that when base-type variables are declared as
-instance variables of a class (see next section), Java ensures initial
-default values if not explicitly initialized. In particular, all numeric
-types are initialized to zero, a boolean is initialized to false, and a
-character is initialized to the null character by default.
+A nice feature of Java is that when base-type variables are declared as instance variables of a class (see next section), Java ensures initial default values if not explicitly initialized. In particular, all numeric types are initialized to zero, a boolean is initialized to false, and a character is initialized to the null character by default.
 
 1.2 Classes and Objects
 -----------------------
@@ -63,7 +59,7 @@ reference type).
 - A class with one or more abstract methods must also be formally declared as abstract, because it is essentially incomplete.
 - final: a variable with final modifier can be initialized as part of that declaration, but can never again be assigned a new value. A final method can't be overridden by a subclass, and a final class can't even be sub-classed.
 
-**Declaring Instance Variables format:** [modifier] type identifier = initialValue
+**Declaring Instance Variables format:** [modifier] type ide ntifier = initialValue
 
 **Declaring Methods format:** [modifier] returnType methodName(type1 param1, ...) {}
 
@@ -285,3 +281,80 @@ Check Java throwable hierarchy diagram_
 
 
 - all checked exceptions that might propagate upward from a method must be explicitly declared in its signature
+
+2.5 Casting and Generics
+------------------------
+
+A widening conversion occurs when a type T is converted into a “wider” type U. The following are common cases of widening conversions:
+
+- T and U are class types and U is a superclass of T.
+- T and U are interface types and U is a superinterface of T.
+- T is a class that implements interface U.
+
+.. code-block:: java
+
+    CreditCard card = new PredatoryCreditCard(...);
+
+Narrowing Conversions,
+
+.. code-block:: java
+
+    CreditCard card = new PredatoryCreditCard(...);
+    PredatoryCreditCard pc = (PredatoryCreditCard) card;
+
+- The above code fragment below shows how to use a cast to perform a narrowing conversion from type PredatoryCreditCard to type CreditCard.
+- operator, instanceof allows us to test whether an object variable is referring to an object that belongs to a particular type.
+
+- 泛型(Generics): Java 泛型（generics）是 JDK 5 中引入的一个新特性, 泛型提供了编译时类型安全检测机制，该机制允许程序员在编译时检测到非法的类型。 泛型的本质是参数化类型，也就是说所操作的数据类型被指定为一个参数。假定我们有这样一个需求：写一个排序方法，能够对整形数组、字符串数组甚至其他任何类型的数组进行排序，该如何实现？
+答案是可以使用 Java 泛型。
+使用 Java 泛型的概念，我们可以写一个泛型方法来对一个对象数组排序。然后，调用该泛型方法来对整型数组、浮点数数组、字符串数组等进行排序。
+
+2.6 Nested Class
+----------------
+
+3. Fundamental Data Structure
+=============================
+3.1 Using Arrays
+----------------
+- Code brief: Define a class that acts like a personal data type. Then use this object in an array format in another class.
+- The capacity of the array must be fixed when it is created, and insertions and deletions at interior positions of an array can be time consuming if many elements must be shifted.
+
+Sorting an array:
+
+- insertion-sort: start from the first, compare the nth element and swap leftward until the n elements are in proper order
+
+.. code-block:: java
+
+    public static void insertionSort(char[] data) {
+        int n = data.length;
+        for (int k = 1; k < n; k++) {
+            char cur = data[k];
+            int j = k;
+            while(j > 0 && data[j-1] > cur) {
+                data[j] = data[j-1];
+                j--;
+            }
+            data[j] = cur;
+        }
+    }
+
+
+- java.util.Arrays: a number of built-in static methods for performing common tasks on arrays
+
+
+**PseudoRandom Number Generator:**
+
+- java.util.Random
+- formula: next = (a*cur+b)%n
+
+**Two-Dimensional Arrays and Positional Games**
+
+Applications:
+
+- Tic-Tac-Toe:
+
+
+3.2 Singly Linked Lists
+-----------------------
+- linked list: a collection of nodes that collectively form a linear sequence. In a singly list, each node stores a reference to an object that is an element of the sequence, as well as a reference to the next node of the list.
+
